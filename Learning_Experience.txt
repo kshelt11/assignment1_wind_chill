@@ -1,0 +1,1 @@
+To run the java file in the command-line, I had to setup system environment variables to use the java and javac commands. I also found out how to delete files in GitHub. I successfully completed the project and had no issues.
